@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0acc18ba-5cd3-4454-b909-42bcb8084663" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UqSyV7QI8eWnSHOAM5xqoxJdPI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/projects/inventory" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0acc18ba-5cd3-4454-b909-42bcb8084663" name="Default Changelist" comment="" />
+      <created>1576082886510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576082886510</updated>
+      <workItem from="1576082890142" duration="5928000" />
+      <workItem from="1576090764133" duration="2000" />
+      <workItem from="1576410951626" duration="10520000" />
+      <workItem from="1576476597896" duration="10315000" />
+      <workItem from="1576494403509" duration="8874000" />
+      <workItem from="1576595608124" duration="10577000" />
+      <workItem from="1576676995501" duration="13275000" />
+      <workItem from="1576766021322" duration="10124000" />
+      <workItem from="1576854912257" duration="6684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="147" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576503975387">
+      <screen x="41" y="28" width="1325" height="740" />
+    </state>
+    <state x="436" y="147" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/41.28.1325.740@41.28.1325.740" timestamp="1576503975387" />
+    <state x="486" y="156" width="424" height="485" key="FileChooserDialogImpl" timestamp="1576779911878">
+      <screen x="41" y="28" width="1325" height="740" />
+    </state>
+    <state x="486" y="156" width="424" height="485" key="FileChooserDialogImpl/41.28.1325.740@41.28.1325.740" timestamp="1576779911878" />
+    <state x="359" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576766034386">
+      <screen x="41" y="28" width="1325" height="740" />
+    </state>
+    <state x="359" y="225" key="com.intellij.ide.util.TipDialog/41.28.1325.740@41.28.1325.740" timestamp="1576766034386" />
+    <state x="349" y="135" width="709" height="526" key="find.popup" timestamp="1576779637618">
+      <screen x="41" y="28" width="1325" height="740" />
+    </state>
+    <state x="349" y="135" width="709" height="526" key="find.popup/41.28.1325.740@41.28.1325.740" timestamp="1576779637618" />
+    <state x="367" y="43" width="672" height="676" key="search.everywhere.popup" timestamp="1576861694852">
+      <screen x="41" y="28" width="1325" height="740" />
+    </state>
+    <state x="367" y="43" width="672" height="676" key="search.everywhere.popup/41.28.1325.740@41.28.1325.740" timestamp="1576861694852" />
+  </component>
+</project>

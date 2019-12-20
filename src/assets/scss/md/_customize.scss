@@ -1,0 +1,125 @@
+.left-side-perfume {
+  color: #00b0ff;
+}
+
+.left-perfume-name {
+  margin-left: 50px;
+}
+
+.left-side-div {
+  margin-bottom: 20px;
+}
+.right-side-div {
+  margin-bottom: 20px;
+}
+
+.md-tabs-navigation.md-elevation-0 {
+  background-color: rebeccapurple !important;
+  margin: 0;
+}
+.md-button:not(.md-just-icon):not(.md-btn-fab):not(.md-icon-button):not(.md-toolbar-toggle) .md-ripple {
+  padding: 7px 0px;
+}
+hr.new-1 {
+  border-top: 1px solid black;
+  width: 32px;
+  margin-top: -7px;
+  margin-left: 30px;
+}
+hr.new-2 {
+  border-top: 1px solid black;
+  width: 32px;
+  margin-top: -7px;
+  margin-left: 50px;
+}
+hr.new-3 {
+  border-top: 1px solid black;
+  width: 32px;
+  margin-top: -7px;
+  margin-left: 60px;
+}
+
+.left-perfume-name-notes {
+  font-size: 13px;
+}
+
+.title-center {
+  text-align: center;
+}
+
+.md-dialog {
+  max-width: 768px;
+  width: 50%;
+  height: 40%;
+}
+
+.modal-close-button {
+  margin-top: 50px;
+}
+
+.left-perfume-name-notes {
+  margin-left: 20px;
+}
+
+.top-perfume {
+  border: 1px solid #cccccc;
+  box-shadow: 5px 5px 5px 5px grey;
+}
+
+.notes-layouts {
+  margin-right: 10px;
+  border: 1px solid #cccccc;
+  box-shadow: 5px 5px 5px 5px grey;
+}
+
+.accords-layout {
+  margin-right: 10px;
+  border: 1px solid #cccccc;
+  box-shadow: 5px 5px 5px 5px grey;
+
+  .avatar-wrapper {
+    position: relative;
+    //left: 0;
+    //top: 0;
+
+    .md-avatar-icon-accords {
+      position: relative;
+      top: 0; left: 0;
+    }
+    .left-side-perfume-overlap {
+      position: absolute;
+      top: 0px;
+      left: 20px
+    }
+  }
+  .left-perfume-name-accords {
+    margin-left: 20px;
+    font-size: 13px;
+  }
+}
+
+.customer-profile-table {
+  overflow: scroll;
+  overflow-x: auto;
+  height: 300px
+}
+
+.tutorial-video {
+  margin-top: 30px;
+}
+
+.tutorial-video :last-child {
+  margin-bottom: 20px;
+}
+
+footer .copyright {
+  margin: 0px auto;
+}
+
+.assistance-content {
+  margin: 0px auto;
+}
+
+.second-footer {
+  background-color: #e4c8c8;
+}
