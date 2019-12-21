@@ -15,11 +15,11 @@
         <md-icon>content_paste</md-icon>
         <p>My Lab</p>
       </sidebar-link>
-      <sidebar-link to="/my-history">
+      <sidebar-link to="/">
         <md-icon>library_books</md-icon>
         <p>My History</p>
       </sidebar-link>
-      <sidebar-link to="/tutorial">
+      <sidebar-link to="/">
         <md-icon>bubble_chart</md-icon>
         <p>Tutorial</p>
       </sidebar-link>
